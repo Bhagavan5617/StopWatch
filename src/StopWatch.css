@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(238, 230, 230);
+}
+.stopwatch {
+    text-align: center;
+    margin: 20px;
+  
+  }
+  
+  .timer {
+    font-size: 4em;
+    margin-bottom: 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    margin:40px;
+  }
+  .name{
+    border: ipx solid whitesmoke;
+    border-radius: 20px;
+    background-color: rgb(119, 193, 193);
+    margin: 50px;
+    padding: 20px;
+  }
+  .controls button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid whitesmoke;
+    background-color: aqua;
+    border-radius: 10px;
+  }
+  
